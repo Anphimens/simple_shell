@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple shell
 > This is an ALX/HOLBERTON SE project on Shell. We were tasked to create a simple shell that mimics the Bash shell. The shell shall be called **hsh**
 
@@ -18,3 +19,14 @@
 - All header files should be include guarded
 - Write a README with the description of the project
 
+=======
+# ALX Simple Shell Project
+
+> This is an ALX software engineering project on SHELL. In this project we are tasked to develop a simple shell that mimics the Bash shell script. 
+
+## This project was completed using 
+- C language
+- Shell 
+- Betty linker
+- GNU compiler
+>>>>>>> origin/main
